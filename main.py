@@ -1,5 +1,5 @@
 # The Game  
-import random 
+import random # Importação de Bibliotecas 
 import time 
 
 #                          INICIALIZAÇÃO DAS VARIÁVEIS 
@@ -21,7 +21,7 @@ print(""" \u26A1\u26A1\u26A1\u26A1\u26A1\u26A1\u26A1\u26A1\u26A1\u26A1\u26A1\u26
  \u26A1\u26A1\u26A1\u26A1\u26A1\u26A1\u26A1\u26A1\u26A1\u26A1\u26A1\u26A1\u26A1\u26A1\u26A1\u26A1\u26A1\u26A1\u26A1\u26A1\u26A1\u26A1\u26A1\u26A1\u26A1\u26A1\u26A1\u26A1\u26A1\u26A1\u26A1\u26A1\u26A1\u26A1\u26A1\u26A1\u26A1\u26A1\u26A1\u26A1\u26A1\u26A1\u26A1\u26A1
 
 """)
-input("\t\t\t\t   Tecle enter para entrar ")
+input("\t\t\t\t   Tecle enter para entrar. ")
 while True:                 # MENU PRINCIPAL        # Enquanto os condicionais do Menu forem verdadeiros, executa-se os comandos do jogo. 
     print("""
     \t\t\t\t> > > \U0001F31F  MENU \U0001F31F  < < < 
